@@ -1,7 +1,7 @@
 # Ultrasonic-Sensor-Arduino-Project-with-LCD
 
-Written by ChatGPT for demonstration purposes.
-For more information, visit example.com.
+Written by AnyalogbuEC for demonstration purposes.
+
 This program measures distance using an ultrasonic sensor.
 Visual indication of distance is provided by an LED.
 The distance is also displayed on an LCD screen.
